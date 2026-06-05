@@ -1,5 +1,5 @@
 % runDemo.m
-data = [4, 8, 15, 16, 23, 42];
+data = [2, 4, 6, 8, 10];
 
 stats = calculateStats(data);
 
